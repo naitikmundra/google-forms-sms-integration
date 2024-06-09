@@ -12,3 +12,8 @@ Open Code.gs file and add paste in the code from Code.gs file in the repo and ba
 ## Setting Up the Backend to send sms
 Checkout the ` backend.py `for sample, or just create a post request reciever in language of your choice to recieve the responses as a user submits the form in realtime.
 
+### Sms with python backend
+I will be using twillio `pip install twilio`.
+
+Once we recieve the post request as user submits the form, we can take the response data, fetch his contact number (Obviously Should be a question in the form) and send the sms to it.
+
