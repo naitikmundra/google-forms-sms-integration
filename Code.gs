@@ -1,6 +1,6 @@
 //Google form sms integration by Naitik Mundra
 //Code.gs 
-//Open the google form as admin and find script editor. Then paste thiks code in Code.gs file.
+//Open the google form as admin and find script editor. Then paste this code in Code.gs file.
 //This file will send on our backend the responsess as form is submitted. We will take mob no. in the response in google form.
 
 
