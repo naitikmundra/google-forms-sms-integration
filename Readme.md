@@ -1,5 +1,5 @@
 # ### Google form sms integration
-A one stop solution to send sms to form respondents.
+A one stop solution to send sms to form respondents or to get responses as user submits google form in realtime.
 
 ## Adding Script to the google form 
 ![](https://i.postimg.cc/q7K0JWjc/mail-google.png)
