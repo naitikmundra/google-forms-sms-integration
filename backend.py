@@ -4,7 +4,7 @@ from flask import Flask, request, jsonify
 import os
 from twilio.rest import Client
 app = Flask(__name__)
-def response(contact):
+def sendsms(contact):
     user_mobile_no = contact
     # Download the helper library from https://www.twilio.com/docs/python/install
     # Find your Account SID and Auth Token at twilio.com/console
